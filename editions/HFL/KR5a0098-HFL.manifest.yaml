@@ -1,0 +1,76 @@
+canonical_identifier: bkk:krp/KR5a0098/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5a0098/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上靈寶諸天內音自然玉字
+  date: '2015-08-28 23:37:22.803983'
+  source:
+    repository: kanripo
+    path: KR5a0098
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0098_000-HFL.yaml, hash: 'sha256:f5e7a7cbb6a8ef3cb04d521afee0ee8d1d00b9bcb4fd3bdf99ffaef7a5b3c9da'}
+  - {seq: 1, filename: KR5a0098_001-HFL.yaml, hash: 'sha256:d89c80642e9993838d586436b595287fb77863b3cc7a78d422d0d3d793509c7e'}
+  - {seq: 2, filename: KR5a0098_002-HFL.yaml, hash: 'sha256:19aabac2c4ec19bc422bd2530ee5d8eac30edff3a52a4d8cac5b80ad53544e7c'}
+  - {seq: 3, filename: KR5a0098_003-HFL.yaml, hash: 'sha256:411e2e87e31deefd6b481979224433a5451230501e319779859ee0acfbddc3be'}
+  - {seq: 4, filename: KR5a0098_004-HFL.yaml, hash: 'sha256:cb47efe2cffcbb90c12ddf39f5c74c2917cc547dd3664a9dc5b8c99d071e2d40'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5a0098_001-HFL.markers.yaml, hash: 'sha256:ba6bef883647bce938fba1a0f3bf0f074400243bfb157b4d9e4d884af3e1fdcb'}
+  - {seq: 2, role: markers, filename: assets/KR5a0098_002-HFL.markers.yaml, hash: 'sha256:0625cfde62c714ee1c12913634f97dc463b1970788c82c5de7c9181908ce871c'}
+  - {seq: 3, role: markers, filename: assets/KR5a0098_003-HFL.markers.yaml, hash: 'sha256:ad709491819efb823158ec2a92efb15cc80815acc0b190241dd13caff02b5194'}
+  - {seq: 4, role: markers, filename: assets/KR5a0098_004-HFL.markers.yaml, hash: 'sha256:58fc311bedddffdc1b9fcfd41a1cef089ee57e3e55565bbd1d053ba159058ed2'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5a0098_HFL_001-001a
+    span:
+    - body
+    - 0
+    - 4764
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0098_HFL_002-001a
+    span:
+    - body
+    - 0
+    - 5387
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0098_HFL_003-001a
+    span:
+    - body
+    - 0
+    - 8560
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5a0098_HFL_004-001a
+    span:
+    - body
+    - 0
+    - 8518
+  label: juan 004
+  type: section
+  level: 1
+hash: sha256:5d91fd730a428173a765f724fee178ac3046f9eedea4018aa76a64848380a995

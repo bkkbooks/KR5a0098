@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR5a0098/v1
+canonical_location: https://kanripo.org/bkk/KR5a0098/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 太上靈寶諸天內音自然玉字
+  identifiers:
+    alt_id:
+    - DZ0097
+  date: '2015-08-28 23:37:22.803983'
+  source:
+    repository: kanripo
+    path: KR5a0098
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+  base_edition: HFL
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: HFL
+  label: 【正統道藏・涵芬樓版】
+- short: ZTDZ
+  label: 【正統道藏・三家本】
+- short: SJB
+assets:
+  parts:
+  - {seq: 0, filename: KR5a0098_000.yaml, hash: 'sha256:6364b9349d787e5debfc5058b68eb58c2b14e2505bcbf945cfe5df26c46295c5'}
+  - {seq: 1, filename: KR5a0098_001.yaml, hash: 'sha256:f5cb99c390bdc9fe40d725f7c5a13a0d6359ab093f4d6a6e9cb275c182428839'}
+  - {seq: 2, filename: KR5a0098_002.yaml, hash: 'sha256:b0c9b8d9eccd4f74d3ac7cec8624c47c94fcd8558a9e085f21d7f8e4661c7f6e'}
+  - {seq: 3, filename: KR5a0098_003.yaml, hash: 'sha256:a1e794466a92d83007601339fcde5041726785792a7b11327e8c1dcc6b0cc173'}
+  - {seq: 4, filename: KR5a0098_004.yaml, hash: 'sha256:5585eb170709d40ffe440e5b53dfccf654068c77f5c7954dab9d71d9820b86c0'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5a0098_001.markers.yaml, hash: 'sha256:d25bc82875fe583e7e6ed22db129845096b8126c078b5ff2687af39ef6485750'}
+  - {seq: 2, role: markers, filename: assets/KR5a0098_002.markers.yaml, hash: 'sha256:46a44aa2bd840bf7d80715623a069ea8f826008a9789d8b06e96d93fcfc1248c'}
+  - {seq: 3, role: markers, filename: assets/KR5a0098_003.markers.yaml, hash: 'sha256:c1da5da04108aefe397fde6c9c2ba020f096add41d34e154bb547d93f6819233'}
+  - {seq: 4, role: markers, filename: assets/KR5a0098_004.markers.yaml, hash: 'sha256:ec2fe34a8017ceff7032c99a60cbfaa12c8e939aa0956b8a71beefe920a09b15'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR5a0098_HFL_001-001a
+    span:
+    - body
+    - 0
+    - 4764
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR5a0098_HFL_002-001a
+    span:
+    - body
+    - 0
+    - 5387
+  label: juan 002
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR5a0098_HFL_003-001a
+    span:
+    - body
+    - 0
+    - 8560
+  label: juan 003
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR5a0098_HFL_004-001a
+    span:
+    - body
+    - 0
+    - 8518
+  label: juan 004
+  type: section
+  level: 1
+hash: sha256:510efa2f6d5614734f8eeb381d4e3f1d7d9fd7b495c0d5dacd2426d308f38407
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

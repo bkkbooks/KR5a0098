@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5a0098/krp/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上靈寶諸天內音自然玉字
+  edition:
+    short: krp
+  base_edition: HFL
+  date: '2015-08-28 23:37:22.803983'
+  source:
+    repository: kanripo
+    path: KR5a0098/KR5a0098_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:6364b9349d787e5debfc5058b68eb58c2b14e2505bcbf945cfe5df26c46295c5

@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR5a0098/HFL/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上靈寶諸天內音自然玉字
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-28 23:37:22.803983'
+  source:
+    repository: kanripo
+    path: KR5a0098/KR5a0098_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+hash: sha256:f5e7a7cbb6a8ef3cb04d521afee0ee8d1d00b9bcb4fd3bdf99ffaef7a5b3c9da
